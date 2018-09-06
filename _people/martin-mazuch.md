@@ -1,5 +1,5 @@
 ---
-uid: jmartin.mazuch
+uid: martin.mazuch
 name:     Martin Mazuch  	# běžně používáné jméno
 titles:
 before: 
