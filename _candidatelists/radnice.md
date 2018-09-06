@@ -3,7 +3,7 @@ title: Kandidátka na radnici
 uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
-  uid: prvni.leader
+  uid: martin.mazuch
   age: 31
   profession: knihovník
   party: Piráti
