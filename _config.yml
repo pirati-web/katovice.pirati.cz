@@ -5,30 +5,30 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
-email: info@pirati.cz
+title: Piráti Katovice # To co je napsané na tabu ve kterém je stránka.
+email: lukas.kolarik@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Piráti kandidují v komunálních volbách v Katovicích.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, katovice, kolářík
 
 administrator:
   email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  contactUid: jakub.pirat
-  email: example@pirati.cz
-  phone: +420 777 123 456 789
-  address: |
-    Řehořova 943/19,
-    130 00 Praha 3
-  residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
-  redmineLink: https://redmine.pirati.cz/projects
-  dataBoxId: b2i4r6j
-  transparentAccount: 2100048174/2010
+  name: Katovice
+  shortName: Katovice
+  contactUid: lukas.kolarik
+  email: lukas.kolarik@pirati.cz
+  phone: +420 727 853 151
+#  address: |
+#    Řehořova 943/19,
+#    130 00 Praha 3
+#  residenceImg:
+#  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+#  redmineLink: https://redmine.pirati.cz/projects
+#  dataBoxId: b2i4r6j
+#  transparentAccount: 2100048174/2010
 
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
@@ -36,16 +36,16 @@ organization:
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
-  - type: organizationRedmineLink
+#  - type: organizationRedmineLink
   - type: organizationPhone
-  - type: organizationTransparentAccount
-    includeMoreLink: true
-  - type: organizationDataBox
+#  - type: organizationTransparentAccount
+#    includeMoreLink: true
+#  - type: organizationDataBox
   - type: piratiRootWebsite
   - type: custom
     iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+#    label: Vlastní řádek tabulky
+#    body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -58,28 +58,28 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
-  appId: 1526197851008996
+  profilePage: https://www.facebook.com/kolarikl
+  profilePageName: Lukáš Kolářík
+#  appId: 1526197851008996
 
 twitter:
   loadSDK: true
   profile: PiratskaStrana
 
-instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+#instagram:
+#  profilePage: https://www.instagram.com/pirati.cz/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
+#gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
 
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
+#flicker:
+#  profilePage: https://www.flickr.com/photos/pirati/
 
-forum:
-  page: https://forum.pirati.cz/
+#forum:
+#  page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/katovice.pirati.cz/
   branch: master
 
 #
