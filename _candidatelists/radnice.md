@@ -31,6 +31,22 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 24
     profession: student, místní rodák
     #description: expert přes dětská hřiště
+  - uid: jitka.michalikova
+    age: 24
+    profession: zahradnice, místní rodačka
+    #description: expert přes dětská hřiště
+  - uid: vitek.spoula
+    age: 22
+    profession: student
+    #description: expert přes dětská hřiště
+  - uid: lukas.zdenek
+    age: 20
+    profession: student, místní rodák
+    #description: expert přes dětská hřiště
+  - uid: zdenek.masat
+    age: 35
+    profession: marketér, místní rodák
+    #description: expert přes dětská hřiště
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
@@ -40,10 +56,10 @@ tail: # zbytek kandidatky
 #    party: bez politické příslušnosti
 #  - name: Petr Slavík
 #  - name: Pavel Němec
-  - name: Jitka Michalíková
-  - name: Bc. Vítek Špoula
-  - name: Lukáš Zdeněk
-  - name: Zdeněk Mašát
+#  - name: Jitka Michalíková
+#  - name: Bc. Vítek Špoula
+#  - name: Lukáš Zdeněk
+#  - name: Zdeněk Mašát
   - name: Petr Štěflíček
   - name: Václav Zach
   - name: Bc. Jiří Zemen

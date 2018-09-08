@@ -9,7 +9,7 @@ category:
   - pms
   - kandidat-obec
 ordpms: 1
-ordclenove: 2
+ordclenove: 6
 description: student, místní rodák
 img: people/pavel-nemec.jpg 
 mail:

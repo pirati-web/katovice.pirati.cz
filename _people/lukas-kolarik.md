@@ -9,7 +9,7 @@ category:
   - pms
   - kandidat-obec
 ordpms: 1
-ordclenove: 2
+ordclenove: 3
 description: místní rodák, poslanec za Piráty
 img: people/lukas-kolarik.jpg 
 mail:

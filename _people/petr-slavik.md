@@ -9,7 +9,7 @@ category:
   - pms
   - kandidat-obec
 ordpms: 1
-ordclenove: 2
+ordclenove: 5
 description: strojní mechanik
 img: people/petr-slavik.jpg 
 mail:
