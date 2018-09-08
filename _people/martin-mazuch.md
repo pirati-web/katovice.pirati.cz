@@ -6,7 +6,8 @@ titles:
   after: Dis.
 category:
   - clenove
-  - kontaktni_osoba
+  - kontaktni-osoba
+  - kandidat-obec
 ordclenove: 1
 description: lídr kandidátky # zobrazuje se v lide
 img: people/martin-mazuch.jpg # zakomentuj radek dokud není fotka

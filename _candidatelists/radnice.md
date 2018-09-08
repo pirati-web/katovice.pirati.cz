@@ -10,28 +10,35 @@ leader:
   description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: mistni.predseda
-    profession: knihovník
-    description: expert na skoky
+  - uid: katerina.vetrakova
+    age: 29
+    profession: sociální pracovnice
+#    description: expert na skoky
     party: bez politické příslušnosti
-  - uid: jakub.pirat
-    profession: knihovník
-  - uid: aktivni.priznivec
-    age: 63
+  - uid: lukas.kolarik
+    age: 34
+    profession: poslanec
+    party: Česká pirátská strana
+  - uid: jaroslav.zemen
+    age: 29
     profession: zametač
     description: expert přes dětská hřiště
-    party: Evropani.cz
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Mudr. Místní Dkotor
-    age: 49
-    profession: obvodní lékař
-    party: bez politické příslušnosti
-  - name: Tomáš Šťoural
-    age: 19
-    profession: student
-    party: Piráti
+  - name: Petr Slavík
+#    age: 49
+#    profession: obvodní lékař
+#    party: bez politické příslušnosti
+  - name: Petr Slavík
+  - name: Pavel Němec
+  - name: Jitka Michalíková
+  - name: Bc. Vítek Špoula
+  - name: Lukáš Zdeněk
+  - name: Zdeněk Mašát
+  - name: Petr Štěflíček
+  - name: Václav Zach
+  - name: Bc. Jiří Zemen
 #note: # poznámka pod kanidátku
 #    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
