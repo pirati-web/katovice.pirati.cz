@@ -7,6 +7,7 @@
 
 title: Piráti Katovice # To co je napsané na tabu ve kterém je stránka.
 email: lukas.kolarik@pirati.cz
+url: https://katovice.pirati.cz
 description: >-
   Piráti kandidují v komunálních volbách v Katovicích.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -166,7 +167,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.6.1/_sass
+    - vendor/bundle/ruby/2.4.0/gems/jekyll-theme-pirati-6.7.0/_sass
     - assets/css
     - assets/fonts
     - assets/video

@@ -23,15 +23,23 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 29
     profession: elektrikář
     description: expert přes dětská hřiště
+  - uid: petr.slavik
+    age: 38
+    profession: strojní mechanik
+    #description: expert přes dětská hřiště
+  - uid: pavel.nemec
+    age: 24
+    profession: student, místní rodák
+    #description: expert přes dětská hřiště
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Petr Slavík
+#  - name: Petr Slavík
 #    age: 49
 #    profession: obvodní lékař
 #    party: bez politické příslušnosti
-  - name: Petr Slavík
-  - name: Pavel Němec
+#  - name: Petr Slavík
+#  - name: Pavel Němec
   - name: Jitka Michalíková
   - name: Bc. Vítek Špoula
   - name: Lukáš Zdeněk
