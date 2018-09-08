@@ -7,13 +7,13 @@ titles:
 category:
   - clenove
   - kontaktni_osoba
-ordclenove: 2
+ordclenove: 1
 description: lídr kandidátky # zobrazuje se v lide
 img: people/martin-mazuch.jpg # zakomentuj radek dokud není fotka
-mail:
-  - jakub.pirat@pirati.cz
+#mail:
+#  - jakub.pirat@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/martin.mazuch?lst=1727608082%3A1637606092%3A1536229282  # pokud nema, staci smazat tuto radku
+  facebook: https://www.facebook.com/martin.mazuch
 # googleplus: https://plus.google.com/+uzivatel.na.googleplus
 #  twitter: https://twitter.com/uzivatel.na.twitteru
 ---

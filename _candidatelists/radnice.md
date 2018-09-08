@@ -32,6 +32,6 @@ tail: # zbytek kandidatky
     age: 19
     profession: student
     party: Piráti
-note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+#note: # poznámka pod kanidátku
+#    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
