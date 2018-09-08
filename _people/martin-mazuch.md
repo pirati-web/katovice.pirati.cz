@@ -2,18 +2,18 @@
 uid: martin.mazuch
 name:     Martin Mazuch  	# běžně používáné jméno
 titles:
-before: 
-after: Dis.
+  before: 
+  after: Dis.
 category:
-- clenove
-- kontaktni_osoba
+  - clenove
+  - kontaktni_osoba
+ordclenove: 2
 description: lídr kandidátky # zobrazuje se v lide
 img: people/martin-mazuch.jpg # zakomentuj radek dokud není fotka
-ordclenove: 2
 mail:
-- jakub.pirat@pirati.cz
+  - jakub.pirat@pirati.cz
 profiles:
-facebook: https://www.facebook.com/martin.mazuch?lst=1727608082%3A1637606092%3A1536229282  # pokud nema, staci smazat tuto radku
+  facebook: https://www.facebook.com/martin.mazuch?lst=1727608082%3A1637606092%3A1536229282  # pokud nema, staci smazat tuto radku
 # googleplus: https://plus.google.com/+uzivatel.na.googleplus
 #  twitter: https://twitter.com/uzivatel.na.twitteru
 ---
