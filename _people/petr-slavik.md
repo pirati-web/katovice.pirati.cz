@@ -11,7 +11,7 @@ category:
 ordpms: 1
 ordclenove: 2
 description: strojní mechanik
-img: people/slavik.jpg 
+img: people/petr-slavik.jpg 
 mail:
 #  - petr.slavik@pirati.cz
 profiles:

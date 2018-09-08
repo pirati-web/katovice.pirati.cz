@@ -10,7 +10,7 @@ category:
   - kandidat-obec
 ordclenove: 2
 description: sociální pracovnice
-img: people/vetrakova.jpg 
+img: people/katerina-vetrakova.jpg 
 #mail:
 #  - lukas.kolarik@pirati.cz
 #profiles:

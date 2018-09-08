@@ -10,7 +10,7 @@ category:
   - kandidat-obec
 ordclenove: 4
 description: elektrikář
-img: people/zemen-jaroslav.jpg 
+img: people/jaroslav-zemen.jpg 
 #mail:
 #  - lukas.kolarik@pirati.cz
 #profiles:

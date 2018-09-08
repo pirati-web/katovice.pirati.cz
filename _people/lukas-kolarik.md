@@ -11,7 +11,7 @@ category:
 ordpms: 1
 ordclenove: 2
 description: místní rodák, poslanec za Piráty
-img: people/kolarik.jpg 
+img: people/lukas-kolarik.jpg 
 mail:
   - lukas.kolarik@pirati.cz
 profiles:

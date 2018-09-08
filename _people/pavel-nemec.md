@@ -11,7 +11,7 @@ category:
 ordpms: 1
 ordclenove: 2
 description: student, místní rodák
-img: people/nemec.jpg 
+img: people/pavel-nemec.jpg 
 mail:
 #  - pavel.nemec@pirati.cz
 profiles:
