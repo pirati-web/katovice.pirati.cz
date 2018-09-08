@@ -8,7 +8,6 @@ category:
   - clenove
   - pms
   - kandidat-obec
-ordpms: 1
 ordclenove: 2
 description: sociální pracovnice
 img: people/vetrakova.jpg 

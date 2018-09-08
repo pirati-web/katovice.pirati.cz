@@ -21,7 +21,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: Česká pirátská strana
   - uid: jaroslav.zemen
     age: 29
-    profession: zametač
+    profession: elektrikář
     description: expert přes dětská hřiště
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat

@@ -8,8 +8,7 @@ category:
   - clenove
   - pms
   - kandidat-obec
-ordpms: 1
-ordclenove: 2
+ordclenove: 4
 description: elektrikář
 img: people/zemen-jaroslav.jpg 
 #mail:
