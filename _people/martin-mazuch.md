@@ -6,7 +6,7 @@ titles:
   after: Dis.
 category:
   - clenove
-  - kontaktni-osoba
+  - kontaktni_osoba
   - kandidat-obec
 ordclenove: 1
 description: lídr kandidátky # zobrazuje se v lide
