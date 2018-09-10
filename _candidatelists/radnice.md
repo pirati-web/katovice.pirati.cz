@@ -46,8 +46,17 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: zdenek.masat
     age: 35
     profession: marketér, místní rodák
+  - uid: petr.steflicek
+    age: 41
+    profession: dobrovolný hasič, řidič kamionu
+  - uid: vaclav.zach
+    age: 28
+    profession: servisní technik, místní rodák
+  - uid: jiri.zemen
+    age: 29
+    profession: myslivec, včelař, kynolog
     #description: expert přes dětská hřiště
-tail: # zbytek kandidatky
+#tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
 #  - name: Petr Slavík
@@ -60,9 +69,9 @@ tail: # zbytek kandidatky
 #  - name: Bc. Vítek Špoula
 #  - name: Lukáš Zdeněk
 #  - name: Zdeněk Mašát
-  - name: Petr Štěflíček
-  - name: Václav Zach
-  - name: Bc. Jiří Zemen
+#  - name: Petr Štěflíček
+#  - name: Václav Zach
+#  - name: Bc. Jiří Zemen
 #note: # poznámka pod kanidátku
 #    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
