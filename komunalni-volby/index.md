@@ -7,3 +7,13 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 
 > "Vyhrajeme volby," říká leader.
 
+### Program
+[Dostupné bydlení](/komunalni-volby/program/katovice2018/dostupne-bydleni) - 
+[Kultura](/komunalni-volby/program/katovice2018/kultura) - 
+[Školství](/komunalni-volby/program/katovice2018/skolstvi) - 
+[Zaměstnanost](/komunalni-volby/program/katovice2018/zamestnanost) -
+[Sport](/komunalni-volby/program/katovice2018/sport) -
+[Služby](/komunalni-volby/program/katovice2018/sluzby) -
+[Participativní rozpočet](/komunalni-volby/program/katovice2018/participativni-rozpocet) -
+[Zapojení občanů na rozhodování](/komunalni-volby/program/katovice2018/zapojeni-obcanu) -
+[Otevřená obec](/komunalni-volby/program/katovice2018/otevrena-obec)
