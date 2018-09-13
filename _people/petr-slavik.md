@@ -22,4 +22,4 @@ profiles:
 
 Petr Slavík se narodil 9. 6. 1980 a od útlého mládí je obyvatelem Katovic. 
 
-Je absolventem učiliště v Lišově, kde získal vzdělání v oboru truhlář – nábytkář. Nyní pracuje jako strojní mechanik v zahraničí. Téměř veškerý jeho čas vyplňuje jeho rodina. Rád by se zapojil do rozvoje obce s vyhlídkou na dobrou budoucnost pro mladé rodiny s dětm
+Je absolventem učiliště v Lišově, kde získal vzdělání v oboru truhlář – nábytkář. Nyní pracuje jako strojní mechanik v zahraničí. Téměř veškerý jeho čas vyplňuje jeho rodina. Rád by se zapojil do rozvoje obce s vyhlídkou na dobrou budoucnost pro mladé rodiny s dětmi.
