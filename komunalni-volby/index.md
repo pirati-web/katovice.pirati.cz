@@ -5,8 +5,6 @@ campaignCategoryUid: katovice2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
-> "Vyhrajeme volby," říká leader.
-
 ### Program
 [Dostupné bydlení](/komunalni-volby/program/katovice2018/dostupne-bydleni) - 
 [Kultura](/komunalni-volby/program/katovice2018/kultura) - 

@@ -7,6 +7,7 @@ titles:
 category:
   - clenove
   - pms
+  - kontaktni_osoba
   - kandidat-obec
 ordpms: 1
 ordclenove: 3

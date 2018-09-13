@@ -43,8 +43,8 @@ contactSummaryItems:
 #    includeMoreLink: true
 #  - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
+#  - type: custom
+#    iconClass: fa fa-envelope
 #    label: Vlastní řádek tabulky
 #    body: <a href="http://example.com">link</a>
 
