@@ -10,7 +10,7 @@ category:
   - kandidat-obec
 ordpms: 1
 ordclenove: 13
-description: myslivec, včelař, kynolog
+description: revírník, myslivec, včelař, kynolog
 img: people/jiri-zemen.jpg 
 mail:
 #  - jiri.zemen@pirati.cz

@@ -4,10 +4,10 @@ uid: radnice
 number: 2 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: martin.mazuch
-  age: 31
-  profession: knihovník
-  party: Piráti
-  description: expert na skoky # zobrazuje se v komunalni-volby
+  age: 32
+  profession: kameraman, střihač
+  party: bez politické příslušnosti
+  #description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: lukas.kolarik
@@ -17,55 +17,58 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 
   - uid: jiri.zemen
     age: 29
-    profession: myslivec, včelař, kynolog
-    #description: expert přes dětská hřiště
+    profession: revírník, myslivec, včelař, kynolog
+    party: bez politické příslušnosti
 
   - uid: vitek.spoula
     age: 22
     profession: student
-    #description: expert přes dětská hřiště
+    party: bez politické příslušnosti
 
   - uid: katerina.vetrakova
-    age: 29
+    age: 27
     profession: sociální pracovnice
     party: bez politické příslušnosti
 
   - uid: petr.slavik
     age: 38
     profession: strojní mechanik
-    #description: expert přes dětská hřiště
+    party: bez politické příslušnosti
 
   - uid: vaclav.zach
     age: 28
     profession: servisní technik, místní rodák
-
+    party: bez politické příslušnosti
+    
   - uid: jaroslav.zemen
-    age: 29
+    age: 27
     profession: elektrikář
-    description: expert přes dětská hřiště
+    party: bez politické příslušnosti
 
   - uid: zdenek.masat
     age: 35
     profession: marketér, místní rodák
+    party: bez politické příslušnosti
 
   - uid: pavel.nemec
     age: 24
     profession: student, místní rodák
-    #description: expert přes dětská hřiště
+    party: bez politické příslušnosti
 
   - uid: petr.steflicek
     age: 41
-    profession: dobrovolný hasič, řidič kamionu
+    profession: řidič kamionu, dobrovolný hasič 
+    party: bez politické příslušnosti
 
   - uid: jitka.michalikova
     age: 24
     profession: zahradnice, místní rodačka
-    #description: expert přes dětská hřiště
+    party: bez politické příslušnosti
 
   - uid: lukas.zdenek
     age: 20
     profession: student, místní rodák
-    #description: expert přes dětská hřiště
+    party: bez politické příslušnosti
     
 #tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat

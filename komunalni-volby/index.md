@@ -13,5 +13,5 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 [Sport](/komunalni-volby/program/katovice2018/sport) -
 [Služby](/komunalni-volby/program/katovice2018/sluzby) -
 [Participativní rozpočet](/komunalni-volby/program/katovice2018/participativni-rozpocet) -
-[Zapojení občanů na rozhodování](/komunalni-volby/program/katovice2018/zapojeni-obcanu) -
+[Zapojení občanů do rozhodování](/komunalni-volby/program/katovice2018/zapojeni-obcanu) -
 [Otevřená obec](/komunalni-volby/program/katovice2018/otevrena-obec)

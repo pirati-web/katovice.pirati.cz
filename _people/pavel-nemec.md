@@ -2,7 +2,7 @@
 uid: pavel.nemec
 name: Pavel Němec
 titles:
-  before:
+  before: Bc.
   after:
 category:
   - clenove

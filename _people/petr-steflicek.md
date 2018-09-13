@@ -10,7 +10,7 @@ category:
   - kandidat-obec
 ordpms: 1
 ordclenove: 11
-description: dobrovolný hasič, řidič kamionu
+description: řidič kamionu, dobrovolný hasič
 img: people/petr-steflicek.jpg 
 mail:
 #  - petr.steflicek@pirati.cz

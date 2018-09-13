@@ -3,7 +3,7 @@ uid: vaclav.zach
 name: Václav Zach
 titles:
   before:
-  after:
+  after: DiS.
 category:
   - clenove
   - pms

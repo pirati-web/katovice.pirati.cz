@@ -1,5 +1,5 @@
 ---
-title: Zapojení občanů na rozhodování 
+title: Zapojení občanů do rozhodování 
 uid: zapojeni-obcanu
 campaignCategoryUid: katovice2018
 campaignGroupUid: volby-2018

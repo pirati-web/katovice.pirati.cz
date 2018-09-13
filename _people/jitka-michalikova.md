@@ -1,6 +1,6 @@
 ---
 uid: jitka.michalikova
-name: Jitka Michalíková
+name: Jitka Michaliková
 titles:
   before:
   after:

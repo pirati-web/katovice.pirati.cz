@@ -1,9 +1,9 @@
 ---
 uid: katerina.vetrakova
-name: Kateřina Větráková
+name: Kateřina Vetráková
 titles:
-  before:
-  after:
+  before: 
+  after: DiS.
 category:
   - clenove
   - pms
