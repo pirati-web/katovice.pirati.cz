@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: CLANKY
+category: blog
 title: Katovice 2.0 - moderní Katovice
 date: '2018-09-13 08:23pm'
 author: Martin Mazuch
