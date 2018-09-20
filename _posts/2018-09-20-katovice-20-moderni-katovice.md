@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 published: true
 category: CLANKY
 title: Katovice 2.0 - moderní Katovice
