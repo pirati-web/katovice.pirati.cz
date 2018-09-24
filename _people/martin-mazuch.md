@@ -19,7 +19,7 @@ profiles:
 #  twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
-**Martin Mazuch** se narodil 13. 12. 1985 a v Katovicích žije přibližně od přelomu tisíciletí. Vystudoval Střední průmyslovou školu v Písku, obor výpočetní technika. Následně získal vzdělání v oboru obraz a zvuk v audiovizuální tvorbě na filmové škole v Písku. Aktuálně pracuje jako kameraman a střihač ve Strakonické televizi a dále v produkci motoristické redakce Motorsport revue. Mezi jeho koníčky patří motorsport, kynologie, novodobá historie a spolková činnost. Rád by se věnoval větší podpoře spolků, kulturnímu vyžití, lepšímu zpřístupnění obce občanům a jejich zapojení do důležitých rozhodnutí.
+**Martin Mazuch** se narodil 13. 12. 1985 a v Katovicích žije přibližně od přelomu tisíciletí. Vystudoval Střední průmyslovou školu v Písku, obor výpočetní technika. Následně získal vzdělání v oboru obraz a zvuk v audiovizuální tvorbě na filmové škole v Písku. Aktuálně pracuje jako kameraman a střihač v regionální televizi. Mezi jeho koníčky patří motorsport, kynologie, novodobá historie a spolková činnost. Rád by se věnoval větší podpoře spolků, kulturnímu vyžití, lepšímu zpřístupnění obce občanům a jejich zapojení do důležitých rozhodnutí.
 
 
 
