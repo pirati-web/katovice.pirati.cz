@@ -9,6 +9,7 @@ image: posts/mazuch.jpg
 description: Katovice Piráti Mazuch Obec
 tags: Katovice Piráti Mazuch Obec
 ---
+
 Vážení návštěvníci našeho webu, dovolte, abychom i my využili možnosti zde prezentovat naši kandidátní listinu, která bude na vašich volebních lístcích označena číslem 2. Toto číslo, které nám bylo vylosováno, se skvěle hodí k našemu názvu. Označením Katovice 2.0 chceme dát najevo, že bychom chtěli posunout městys a jeho chod do další, moderní a otevřenější verze. K lepšímu fungování městyse využijeme nové a moderní technologie, lépe zpřístupníme veškeré informace na novém, moderním a uživatelsky přívětivém webu, zefektivníme práci městských služeb a v neposlední řadě zapojíme občany Katovic do rozhodování o důležitých tématech. Chceme například, aby obec přešla k využívání transparentních bankovních účtů a otevřeného účetnictví všude tam, kde to zákon dovoluje. Všichni tak budou moci kontrolovat, za co konkrétně se finanční prostředky obce utrácejí. Důležitým nástrojem pro zapojení občanů do rozhodování je i participativní rozpočet. Vyčleníme z rozpočtu finanční prostředky určené  na projekty Vás občanů. O tom který projekt se nakonec bude realizovat rozhodnete hlasováním. 
 
 
