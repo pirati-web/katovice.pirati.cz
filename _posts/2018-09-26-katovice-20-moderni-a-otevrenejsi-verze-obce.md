@@ -5,7 +5,7 @@ category: blog
 title: Katovice 2.0  moderní a otevřenější verze obce
 date: '2018-09-26 03:50pm'
 author: Martin Mazuch
-image: ''
+
 description: pirati v katovicích
 tags: Pirati Mazuch katovice
 ---
