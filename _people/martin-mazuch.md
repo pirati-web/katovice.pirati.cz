@@ -6,12 +6,12 @@ titles:
   after: Dis.
 category:
   - clenove
-  #- kontaktni_osoba
+  - kontaktni_osoba
   - kandidat-obec
 ordclenove: 1
 description: kameraman, střihač # zobrazuje se v lide
 img: people/martin-mazuch.jpg # zakomentuj radek dokud není fotka
-#mail:
+mail: martin.mazuch@post.cz
 #  - jakub.pirat@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.mazuch
