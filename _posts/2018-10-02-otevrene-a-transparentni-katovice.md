@@ -5,6 +5,7 @@ category: blog
 title: OTEVŘENÉ A TRANSPARENTNÍ KATOVICE
 date: '2018-10-02 03:30pm'
 author: Lukáš Kolářík
+image: posts/mazuch.jpg
 description: katovice Transparentní zveřejníme Piráti 2.0
 tags: atovice Transparentní zveřejníme Piráti 2.0
 ---
