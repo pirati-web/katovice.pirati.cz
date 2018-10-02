@@ -13,7 +13,7 @@ contentSize: default
   <h1 class="t-h2-alt">Přidej se</h1>
 </div>
 
-Ozvi se [Lukášovi Kolaříkovi](/lide/lukas-kolarik/) nebo přijď k nám na schůzku, které pořádáme pravidelně v Katovicích.
+Ozvi se [Lukášovi Kolaříkovi](/lide/lukas-kolarik/) nebo přijď k nám na schůzku.
 
 Zajímá tě, co Piráti dělají? Chceš se přidat? Naloď se k Pirátům [zde](https://nalodeni.pirati.cz).
 
