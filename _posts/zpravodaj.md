@@ -4,7 +4,7 @@ published: true
 category: blog
 title: Katovický zpravodaj 2.0
 date: '2018-09-12T21:29:00+01:00'
-author: lukas.kolarik
+author: Lukáš Kolářík
 image: posts/42940133_423031888225347_519969060344037376_n.jpg
 description: Nový předvolební web Katovice 2.0 Piráti a zpravodaj
 tags: Katovice Piráti 2.0 zpravodaj
